@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "IntuitConnectLaunch",
-            url: "https://github.com/intuit/intuitconnect-ios/releases/download/_artifacts/1.0.0/IntuitConnectLaunch.xcframework.zip",
-            checksum: "bf1b78e2e1e78416d8b142dbc3987c272dfc11c840781ff603b23c3db902ed37"
+            url: "https://github.com/intuit/intuitconnect-ios/releases/download/_artifacts/1.1.0/IntuitConnectLaunch.xcframework.zip",
+            checksum: "9dfece371a416981aad4bd48d8d930853e410e5850e200232818447ef42fbc00"
         ),
     ]
 )
